@@ -35,8 +35,9 @@ Clone the repository:
 git clone https://github.com/agam027/securetool.git
 cd securetool
 ```
+---
 
-Usage:
+## Usage:
 
 ```bash
 Check password strength
