@@ -15,7 +15,7 @@ Python-based utility for processing large text files and generating
 word-frequency and pattern statistics.
 → /text_intel
 
-### 🔒 CS50 flask webapp(Flask Demo)
+### 🔒 CS50 flask webapp
 Backend-focused Flask application demonstrating authentication and
 secure handling of user data.
 → /other_cs50_project
