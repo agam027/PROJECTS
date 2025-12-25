@@ -34,9 +34,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/agam027/securetool.git
 cd securetool
+```
 
+Usage:
 
-Usage
+```bash
 Check password strength
 python securetool.py check "MyStrongPass123!"
 
@@ -73,3 +75,5 @@ Security Note ⚠️
 
 This project is intended for educational and demonstration purposes only.
 All passwords used are test data. The tool does not store real credentials or user information.
+
+```
