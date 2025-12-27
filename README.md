@@ -1,4 +1,4 @@
-# Projects Portfolio — Agam Malik
+# Projects Portfolio — Agam Kumar
 
 This repository contains selected programming projects demonstrating
 my experience with Python, backend development, and security-aware tooling.
